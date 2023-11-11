@@ -2,7 +2,7 @@
 Desenvolvi um projeto em Java que utiliza a API gráfica Swing como objeto de estudo para a integração de um banco de dados em uma aplicação.
 <p>
   Blibioteca utilizada
-  <a href="https://downloads.mysql.com/archives/c-j/">JDBC</a>.
+  <a href="https://downloads.mysql.com/archives/c-j/">JDBC 1.5.47</a>.
 </p>
 -JDK 8
 
